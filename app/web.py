@@ -10,7 +10,7 @@ def db_load():
 
 @app.get("/")
 def test():
-    """Test Page for Azure User Data"""
+    """Basic Home Route Page"""
     return flask.render_template("index.html")
 
 @app.get("/api/topics")
