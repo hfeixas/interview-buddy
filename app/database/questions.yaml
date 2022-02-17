@@ -4,8 +4,16 @@ topic_1:
     category: topic_1
     question: Insert Question Here.
     answer: Insert Correct Answer Here.
+  - difficulty: 4
+    category: topic_1
+    question: Insert Question Here.
+    answer: Insert Correct Answer Here.
 topic_2: 
   - difficulty: 3
     category: topic_2
     question: Insert Another Question Here.
+    answer: Insert Correct Answer Here.
+  - difficulty: 1
+    category: topic_2
+    question: Insert Question Here.
     answer: Insert Correct Answer Here.
